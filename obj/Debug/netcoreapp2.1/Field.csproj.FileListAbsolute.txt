@@ -1,0 +1,11 @@
+/home/sonila/Desktop/Field/obj/Debug/netcoreapp2.1/Field.csprojAssemblyReference.cache
+/home/sonila/Desktop/Field/obj/Debug/netcoreapp2.1/Field.csproj.CoreCompileInputs.cache
+/home/sonila/Desktop/Field/obj/Debug/netcoreapp2.1/Field.AssemblyInfoInputs.cache
+/home/sonila/Desktop/Field/obj/Debug/netcoreapp2.1/Field.AssemblyInfo.cs
+/home/sonila/Desktop/Field/bin/Debug/netcoreapp2.1/Field.deps.json
+/home/sonila/Desktop/Field/bin/Debug/netcoreapp2.1/Field.runtimeconfig.json
+/home/sonila/Desktop/Field/bin/Debug/netcoreapp2.1/Field.runtimeconfig.dev.json
+/home/sonila/Desktop/Field/bin/Debug/netcoreapp2.1/Field.dll
+/home/sonila/Desktop/Field/bin/Debug/netcoreapp2.1/Field.pdb
+/home/sonila/Desktop/Field/obj/Debug/netcoreapp2.1/Field.dll
+/home/sonila/Desktop/Field/obj/Debug/netcoreapp2.1/Field.pdb
